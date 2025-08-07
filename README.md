@@ -1,4 +1,4 @@
-#Data Analysis Dashboard
+Data Analysis Dashboard
 
 ##Project Objective
 
