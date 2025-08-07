@@ -9,7 +9,7 @@ The Madhav Store wants to create an annual sales report. So that, the owner of t
 <a href="https://github.com/Addychauhan/E-Commerce-Dashboard/blob/main/Sample%20-%20Superstore.csv" target="_blank" >Dataset</a>
 
 <h2>Questions (KPIs)</h2>
-<ul>
+<ul type="square">
 <li>Compare the sales and orders using single chart.</li>
 <li>Which month got the highest sales and orders?</li>
 <li>Who purchased more - Men or Women?</li>
