@@ -16,7 +16,7 @@ The Madhav Store wants to create an annual sales report. So that, the owner of t
 <li>Which Channel is contributing maximum to the sales?</li>
 <li>Highest selling category?</li>
 <li>Percentage of Total Orders delivered</li>
-<li>Dashboard Interaction View Dashboard</li>
+<li>Dashboard Interaction <a href="https://github.com/Addychauhan/E-Commerce-Dashboard/blob/main/Screenshot%202025-08-07%20214726.png">View Dashboard</a></li>
 </ul>
 
 <h2>Process</h2>
