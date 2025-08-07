@@ -16,5 +16,29 @@ The Madhav Store wants to create an annual sales report. So that, the owner of t
 <li>Which Channel is contributing maximum to the sales?</li>
 <li>Highest selling category?</li>
 <li>Percentage of Total Orders delivered</li>
-<li>Dashboard Interaction</li>
+<li>Dashboard Interaction View Dashboard</li>
 </ul>
+
+<h2>Process</h2>
+<u1 types='circle'>
+<li>Verify data for any missing values and anomalies, and sort out the same.</li>
+<li>Made sure data is consistent and clean with respect to data type, data format and values used.</li>
+<li>Created pivot tables according to the questions asked.</li>
+<li>Merge all pivot tables into one dashboard and apply slicer to make dynamic.</li>
+
+<h2>Dashboard</h2>
+
+
+
+
+<h2>Project Insights</h2>
+<u1 type="circle">
+<li>Women customers are more likely to buy products compared to men (~65%).</li>
+<li>The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.</li>
+<li>The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.</li>
+<li>The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.</li>
+<li>More than 90% of the products delivered </li>
+
+<h2>Final Conclusion:</h2>
+
+
