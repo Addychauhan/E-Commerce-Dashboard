@@ -1,4 +1,4 @@
-Data Analysis Dashboard
+<h1>Data Analysis Dashboard</h1>
 
 ##Project Objective
 
