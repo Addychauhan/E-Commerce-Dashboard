@@ -27,7 +27,7 @@ The Madhav Store wants to create an annual sales report. So that, the owner of t
 <li>Merge all pivot tables into one dashboard and apply slicer to make dynamic.</li>
 
 <h2>Dashboard</h2>
-<img scr="https://github.com/Addychauhan/E-Commerce-Dashboard/blob/main/Screenshot%202025-08-07%20214726.png" alt="dashboardimg">
+<img src="https://github.com/Addychauhan/E-Commerce-Dashboard/blob/main/Screenshot%202025-08-07%20214726.png" alt="dashboardimg">
 
 
 
