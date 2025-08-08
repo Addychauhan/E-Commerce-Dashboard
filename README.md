@@ -40,7 +40,7 @@ This Power BI project presents an interactive and visually intuitive dashboard f
 <li>The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.</li>
 <li>More than 90% of the products delivered </li>
 
-Profit Trends: Highest profits were recorded in November (10.3K) and January (9.7K), while May and August saw negative profits.
+**Profit Trends:** Highest profits were recorded in November (10.3K) and January (9.7K), while May and August saw negative profits.
 Top Sub-Categories: Printers and Bookcases contributed most to profit.
 Customer Insights: Specific customers like Harivansh and Madhav generated high sales.
 Category Performance:
