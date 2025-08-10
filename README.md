@@ -34,12 +34,6 @@ This Power BI project presents an interactive and visually intuitive dashboard f
 
 <h2>Project Insights</h2>
 <u1 type="circle">
-<li>Women customers are more likely to buy products compared to men (~65%).</li>
-<li>The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.</li>
-<li>The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.</li>
-<li>The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.</li>
-<li>More than 90% of the products delivered </li>
-
 **Profit Trends:** Highest profits were recorded in November (10.3K) and January (9.7K), while May and August saw negative profits.
 Top Sub-Categories: Printers and Bookcases contributed most to profit.
 Customer Insights: Specific customers like Harivansh and Madhav generated high sales.
